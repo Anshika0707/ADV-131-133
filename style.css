@@ -1,0 +1,16 @@
+
+  body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+a
+{
+  float:right;
+  font-size: 20px !important;
+  margin: 5px;
+  background: black;
+  cursor: pointer;
+  color: white;
+}
